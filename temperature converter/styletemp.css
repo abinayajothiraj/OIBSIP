@@ -1,0 +1,32 @@
+* {
+        box-sizing: border-box;
+    }
+    body{
+        background-image: url(temp3.jpg);
+        background-position: center;
+        align-items: center;
+        background-size: cover;
+        background-position: center;
+        justify-content: center;
+    }
+    h2{
+        color:#fff;
+    }
+    .button-tool{
+        border-radius: 20px;
+        padding:18px;
+        background-color: rgb(253, 17, 57);
+        color: white;
+        font-size: 15px;
+        
+        
+    }
+    .button-tool:hover {
+        background-color: rgb(10, 206, 206);
+        color: black;
+    }
+   .box {
+        width: 35%;
+        height: 32px;
+        border-radius: 15px;
+   }
